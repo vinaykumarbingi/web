@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Java Programming workshop</title>
+<title>Java Programming</title>
 </head>
 <body>
-<h1>WELCOME TO SSIT</h1>
+<h1>WELCOME vinay</h1>
 Email:<input type="text" name="email"/><br/><br/>  
 Password:<input type="password" name="password"/><br/><br/>  
 <input type="submit" value="login"/>"  
